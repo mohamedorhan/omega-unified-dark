@@ -24,6 +24,19 @@ It contains:
 - Symbolic consistency checks
 
 ---
+## 📊 Figures & Visualizations
+
+Below are the visual results of the Omega Unified Dark Cosmological Simulation:
+
+### 🌀 Omega Expansion Plot
+![Omega Expansion Plot](https://github.com/mohamedorhan/omega-unified-dark/raw/main/Figures/omega_expansion_plot.png)
+
+### 🌌 Omega Density Contributions
+![Omega Density Contributions](https://github.com/mohamedorhan/omega-unified-dark/raw/main/Figures/omega_density_contributions.png)
+
+### 🌑 Omega Dark Density Components
+![Omega Dark Density Components](https://github.com/mohamedorhan/omega-unified-dark/raw/main/Figures/omega_dark_density_components.png)
+
 
 ## ⚙️ Installation
 
