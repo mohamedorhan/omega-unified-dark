@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+h5py
+requests
+torch
+sympy
+plotly
